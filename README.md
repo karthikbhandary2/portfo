@@ -1,2 +1,2 @@
-# portfo
-For hosting the portfo website
+# Portfolio-Website
+Using Python's flask module and html templates this website was build
